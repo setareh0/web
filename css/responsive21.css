@@ -1,0 +1,15 @@
+@media (max-width:575px) {
+  .toparea { text-align:center;}
+}
+@media (max-width:1199px) {
+.searcharea input {width: 87%;}
+  .footbox input{ width:83%;}
+}
+@media (max-width:767px) {
+  .logoarea img{float:none;}
+  .logoarea{text-align:center;}
+}
+@media (max-width:991px) {
+  .mainmenuarea ul li a{padding:10px 5px;}
+  .footbox input{ width:77%;}
+}
